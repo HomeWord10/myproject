@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFramework_UGUI-master", "SimpleFramework_UGUI-master.csproj", "{7554E202-FE6F-5E5B-C6E3-30D1F14A26D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFramework_UGUI-master.Editor", "SimpleFramework_UGUI-master.Editor.csproj", "{5636A6D2-6C98-CA9B-2EB6-C4BB3A74E749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7554E202-FE6F-5E5B-C6E3-30D1F14A26D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7554E202-FE6F-5E5B-C6E3-30D1F14A26D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7554E202-FE6F-5E5B-C6E3-30D1F14A26D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7554E202-FE6F-5E5B-C6E3-30D1F14A26D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5636A6D2-6C98-CA9B-2EB6-C4BB3A74E749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5636A6D2-6C98-CA9B-2EB6-C4BB3A74E749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5636A6D2-6C98-CA9B-2EB6-C4BB3A74E749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5636A6D2-6C98-CA9B-2EB6-C4BB3A74E749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
